@@ -9,8 +9,8 @@
 ## Quickstart 
 
 ```
-git clone https://
-cd foundry -smart-lottery
+git clone ....
+cd foundry-smart-lottery
 forge build
 ```
 
